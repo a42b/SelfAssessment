@@ -25,9 +25,9 @@
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 🎓 known
-  - contract: 👂 heard
-  - module: 👂 heard
+  - interface: 🖐️ used
+  - contract: 🖐️ used
+  - module: 🖐️ used
   - call stack: 🖐️ used
 - Functions
   - signature: 🖐️ used
@@ -43,38 +43,38 @@
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose:👂 heard
+  - compose: 🖐️ used
   - pipe: 🖐️ used
   - memoize: 🖐️ used
   - wrapper: 🖐️ used
   - functor:👂 heard
-  - monad
-  - monoid
+  - monad:👂 heard
+  - monoid:👂 heard
   - generator: 🖐️ used
-  - coroutine
+  - coroutine:👂 heard
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
   - record
-  - enum:👂 heard
+  - enum: 🖐️ used
   - instance: 🖐️ used
   - object: 🖐️ used
   - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table:👂 heard
-  - linked list:👂 heard
-  - doubly list:👂 heard
-  - unrolled list:👂 heard
-  - circular list:👂 heard
-  - queue:👂 heard
-  - stack:👂 heard
-  - deque:👂 heard
-  - tree:👂 heard
-  - graph:👂 heard
+  - hash table: 🚀 constructed
+  - linked list: 🚀 constructed
+  - doubly list: 🚀 constructed
+  - unrolled list: 🚀 constructed
+  - circular list: 🚀 constructed
+  - queue: 🚀 constructed
+  - stack: 🚀 constructed
+  - deque: 🚀 constructed
+  - tree: 🖐️ used
+  - graph: 🖐️ used
   - iterator: 🖐️ used
-  - mutable state
-  - immutable state
+  - mutable state:👂 heard
+  - immutable state:👂 heard
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
@@ -83,15 +83,15 @@
   - linter: 🖐️ used
   - polyfill
   - debugger: 🖐️ used
-  - garbage collection: 🎓 known
+  - garbage collection: 🖐️ used
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns: 🎓 known
-  - paradigm:👂 heard
-  - algorithm: 🎓 known
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
   - magic numbers: 🖐️ used
   - hardcode: 🖐️ used
-  - complexity:👂 heard
+  - complexity: 🖐️ used
   - decomposition: 🖐️ used
   - spaghetti: 🎓 known
   - silver bullet: 🎓 known
@@ -99,8 +99,8 @@
   - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🎓 known
-  - exception: 🎓 known
+  - exception: 🖐️ used
   - return early: 🖐️ used
-  - unittest:👂 heard
+  - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used
