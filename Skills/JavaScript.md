@@ -38,7 +38,7 @@
   - delete:🖐️ used
   - in:🖐️ used
   - super
-  - Symbol: 🎓 known
+  - Symbol:🖐️ used
   - Reflect
 - Statements
   - if:🖐️ used
@@ -67,14 +67,14 @@
   - functional object:🖐️ used
 - Data structures
   - Array:🖐️ used
-  - mixin: 👂 heard
-  - extend: 👂 heard
+  - mixin:🖐️ used
+  - extend:🖐️ used
   - typed arrays:🖐️ used
   - Map:🖐️ used
   - Set:🖐️ used
   - undefined:🖐️ used
   - null:🖐️ used
-  - Proxy: 👂 heard
+  - Proxy:🖐️ used
   - weak collections
   - timers:🖐️ used
   - EventEmitter:🖐️ used
@@ -83,7 +83,7 @@
   - BigInt:🖐️ used
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js:🖐️ used
+  - npm:🖐️ used
+  - prettier:🖐️ used
+  - MDN:🖐️ used
